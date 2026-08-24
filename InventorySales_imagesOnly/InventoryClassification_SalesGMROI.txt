@@ -1,0 +1,3 @@
+InventoryClassification_SalesGMROI --> GitHub Size Limit EXCEEDED --> Images only
+
+A local global retailer needed assistance setting up a powerBI to track and monitor sales efforts across their offerings.  This included a Pareto Classification analysis as well as a Gross Margins Return on Investment (GMROI) analysis.  The data needed extensive cleaning, parsing and pairing down.  Their particular DataFlow was pulling in every available field in their database, and that was something we discussed to narrow down as best practice; only grab what you need to speed things up and have more relevant and workable data.
