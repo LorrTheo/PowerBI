@@ -1,3 +1,0 @@
-LeeCountyFLPopulationHealth
-
-Here I wanted to pull together a quick project over publicly available public health data.  I focused on population increases and decreases.  As this came from a publicly available source, scrubbing had already been performed, there are no PII or HIPAA concerns to handle.
