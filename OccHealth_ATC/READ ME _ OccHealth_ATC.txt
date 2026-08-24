@@ -1,7 +1,0 @@
-OccHealth_ATC_Utilization
-
-This was a project that spanned 2020 to 2024, logging and analyzing Certified Athletic Trainer (LAT,ATC) activities within an Industrial site.
-
-Types of activities included clinical, Wellness, and Safety.  The industrial site held approximately 300 regular employees, the ATC was onsite full-time providing services.
-
-all PII or HIPAA content has been scrubbed.
