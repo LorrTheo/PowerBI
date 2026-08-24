@@ -1,7 +1,0 @@
-LawnService
-
-A lawn service requested a basic PowerBI report to illustrate their seasonal sales activity for the year 2025 only.  After reviewing the data, I noted to the client that their underlying data had some issues related to categories.  "Grub" was set up correctly with split categories distinguishing "waves".
-The others were not set up for these distinguishing waves, which through off some of the results.  The report page "ResearchChecks" shows the issue clearly highlighted.
-
-Names have been obfuscated out of respect, even though no identifying context is available.
-
