@@ -1,0 +1,31 @@
+Greetings,
+
+Phase I - Business Understanding and Extraction
+My PowerBI creation process first involves discussions with stakeholders to understand a base level of their requests and requirements.  
+From there, I employ an Agile approach to rapidly build out an initial project.  During this initial phase, I gain an understanding of the data
+using CRISP-DM (Cross-Industry Standard for Data Mining), meaning that I comb through the data and see how it fits and relates to the 
+business needs and outcomes of the project.  After understanding the data, I then make the initial extractions and cleaning or sanitization.
+Examples of cleaning and sanitization, fields that are mostly null may be removed, ensuring proper data types and fields lengths, and 
+trimming unnecessary white space, etc.  All just basic data governance and hygiene.
+
+Phase II - Minimum Viable Product and Transformation/Loading
+Once I have selected the appropriate data, I fulfill the requests and requirements, and add
+to those with many more reports, tables, and visuals.  Often times the client has a good idea of what they want, but does not always have a holistic
+view of the options, so providing various additional perspective and context brings more insight and clarity to make better business decisions.  I do implement 
+much of my own custom DAX, generally creating a single calendar table including "fiscal year" transformations, generate all of the basic aggregators and ratios,
+and build a few non-connected tables to use as DAX-based filters in calculations.
+
+Phase III - Technical Adjustments and Aesthetics
+From there, based on stakeholder feedback I begin making adjustments to hone in on the exact nature of the requirements, any additional requests that
+might have developed from seeing the MVP phase, technical calculations pertinent to the business or industry, and greatly improving the look and feel
+of the report and dashboards.
+
+Phase IV - Establishing Production Ready Workloads and Automations
+Once the client has approved of the direction, and the project is about 70% or 80% ready for production, I will get the administrative end ready with
+gateways, connections, and automations.  This will become the engineering piece to make sure that the SQL, Python, PySpark and other code is stable, has pipelines
+built that automatically run through the ELT/ETL process.  Depending on resources available this will involve manual individualized connections, 
+PowerAutomate and task schedulers for lower budgets, thrifty implementations of Azure Data Factory and Fabric for medium budgets, and as the resources
+are expanded, implementing fully fledged stacks of ADF, Fabric, and Snowflake.
+
+Thank You!
+-Matthew Klingler, MSBA, PMP
