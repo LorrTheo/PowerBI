@@ -1,7 +1,7 @@
 Greetings,
 
 This is a small collection of my PowerBI projects over time.  
-No underlying data or connections are available, this is purely for demonstrated project purposes.
+I did not want to expose any underlying metadata or connections, etc, so they are IMAGES ONLY.
 
 Furthermore, these are older projects, my current, more complex projects are still under the domain of my employer.
 With that said, I tried to update some of these where able to include some of my newer skills, however that just was not 
