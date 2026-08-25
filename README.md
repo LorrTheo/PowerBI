@@ -8,5 +8,7 @@ With that said, I tried to update some of these where able to include some of my
 feasible in it's entirety because that would require rebuilding many from scratch, and I no longer have credentials
 for some of the data connections.
 
+To understand my basic methodology, read about my process in "My PowerBI Process"
+
 Thank you and enjoy!
 -Matthew Klingler, MSBA, PMP
