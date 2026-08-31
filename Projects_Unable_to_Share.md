@@ -1,7 +1,7 @@
 # The Following Projects I cannot share
 ## These projects are under DLP / Acceptable Use and cannot be shared publicly
 
- * Finance & Revenue Operations
+ ### Finance & Revenue Operations
    - Accounts Receivable
      + Billing 
      + Receipts
