@@ -35,7 +35,12 @@ are additional details where helpful
      + Forecasting
      + Seasonal Peak and Median
    - Customer Billing
-     + Service Detail
+
+### Garage
+   - Vehicle Detail
+   - Fuel Consumption
+   - Maintenance
+   - Upcoming Service Notifications
  
  ### Public Safety
    - Emergency Telecommunications
