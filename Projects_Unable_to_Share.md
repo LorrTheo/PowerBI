@@ -1,5 +1,7 @@
 # The Following Projects I cannot share
-**These projects are under DLP / Acceptable Use and cannot be shared publicly**
+**These projects are under DLP / Acceptable Use and cannot be shared publicly**  
+Each header represents a department, Primary Bullet is a PowerBI Report, Sub-Bullets
+are additional details where helpful
 
  ### Finance & Revenue Operations
    - Accounts Receivable
