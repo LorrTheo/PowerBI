@@ -1,5 +1,5 @@
 # The Following Projects I cannot share
-## These projects are under DLP / Acceptable Use and cannot be shared publicly
+**These projects are under DLP / Acceptable Use and cannot be shared publicly**
 
  ### Finance & Revenue Operations
    - Accounts Receivable
@@ -16,26 +16,26 @@
      + Journal Tracking
      + Budget to Actuals Comparisons
  
- * Human Capital Management / Human Resources
+ ### Human Capital Management / Human Resources
    - Historical Positions to Employees
    - Approvals
    - Accruals
    - Payroll
  
- * Information Technology
+ ### Information Technology
    - ServiceDesk Summary
    - ServiceDesk Current Tickets
    - Security Operations Investigations
    - Technology Usage Tracking
  
-  * Utilities
-    - Consumption
-      + Forecasting
-      + Seasonal Peak and Median
-    - Customer Billing
-      + Service Detail
+  ### Utilities
+   - Consumption
+     + Forecasting
+     + Seasonal Peak and Median
+   - Customer Billing
+     + Service Detail
  
- * Public Safety
+ ### Public Safety
    - Emergency Telecommunications
    - Sheriff Activities
    - Jail Bookings
